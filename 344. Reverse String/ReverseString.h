@@ -1,3 +1,11 @@
+/* 344. Reverse String
+
+write a function that takes a string as input and returns the string reversed.
+
+Example:
+Given s = "hello", return "olleh".
+*/
+
 #ifndef REVERSE_STRING_H
 #define REVERSE_STRING_H
 
