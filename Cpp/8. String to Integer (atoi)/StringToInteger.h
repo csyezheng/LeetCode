@@ -1,0 +1,8 @@
+//
+// Created by ye on 1/30/18.
+//
+
+#ifndef LEETCODE_STRINGTOINTEGER_H
+#define LEETCODE_STRINGTOINTEGER_H
+
+#endif //LEETCODE_STRINGTOINTEGER_H
